@@ -1,0 +1,22 @@
+version:3955
+maxFps:60
+enableVsync:true
+renderDistance:10
+simulationDistance:8
+renderClouds:"fast"
+particles:1
+biomeBlendRadius:1
+graphicsMode:1
+ao:true
+entityShadows:true
+guiScale:4
+mipmapLevels:4
+lang:en_us
+soundCategory_music:1.0
+skipMultiplayerWarning:true
+onboardAccessibility:false
+tutorialStep:none
+joinedFirstServer:true
+resourcePacks:["vanilla","fabric","file/C418 Background Music Only.zip","file/Fancy Crops v1.3.zip","file/Simple Grass Flowers v2.0.0.zip","file/FreshAnimations_v1.10.4.zip","file/FA+All_Extensions-v1.8.1.zip"]
+incompatibleResourcePacks:[]
+key_key.veinminer_client.hold:key.keyboard.left.shift
